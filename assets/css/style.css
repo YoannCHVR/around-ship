@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  padding: 0;
+
+  width: 2500px;
+  height: 2500px;
+
+  background-color: #1D2951;
+  color: white;
+
+  overflow: hidden;
+
+  cursor: grab;
+  cursor : -o-grab;
+  cursor : -moz-grab;
+  cursor : -webkit-grab;
+}
